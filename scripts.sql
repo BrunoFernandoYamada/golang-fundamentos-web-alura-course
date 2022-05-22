@@ -11,3 +11,4 @@ create table product (
 insert into product (nome, descricao, preco, quantidade) values
 ('Camiseta', 'Preta', 19, 10 ),
 ('Fone', 'Muito bom',99, 5)
+('PC Gamer', 'High End', 19000.59, 1)
